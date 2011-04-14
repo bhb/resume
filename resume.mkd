@@ -1,0 +1,115 @@
+# Overview
+_Me_: I'm a programmer and entrepreneur. I write code, design and refine features, and talk with customers about improving their experience - and I'm happiest when I do all three. I want to join a startup to help rapidly deliver quality software that delights users.
+
+_You_: You're a startup in the Newcastle Upon Tyne, UK (or you're comfortable working with remote employees). You are looking to hire a smart, passionate team member who can contribute across disciplines.
+
+#Skills
+
+## Entrepreneurship
+_5 years_
+
+* Cofounded two startups, including Devver, a Ruby tools company (TechStars '08).
+* Raised $500K in venture capital (O'Reilly Alpha Tech Ventures) and angel funding.
+* Brought three products to market: two cloud-based Ruby tools (a distributed test runner and a code analysis site) and a crowd-sourced product review site.
+* Managed the public launch of two startups as a consultant. Aggressively prioritized business-critical features and wrote code.
+* Hired and managed remote employee.
+* Worked with existing and potential customers to improve features and to understand pricing.
+* Managed marketing campaign on Google Adwords and Ruby Row.
+
+## Ruby/Rails
+_5 years_
+
+* Built a [distributed unit testing tool](http://devver.net/) that ran test suites in 1/3 of time using EventMachine and beanstalkd.
+* Built a Ruby code analysis site (Caliper) that integrated with rubygems.org and analyzed over 7,000 open source Ruby projects using Rails, Sinatra, and metric-fu.
+* Built business-critical features and fixed bugs for [home retrofit Rails application](http://co.app.snugghome.com/).
+* Built a consumer facing [product review site](http://seekler.com) on Rails.
+* Built [site to automatically create newsletter](http://newsletter.flowtown.com/) from tweets for Flowtown on Rails.
+* Wrote a [Rack middleware for perftools.rb](https://github.com/bhb/rack-perftools_profiler).
+* Implemented location detection for [Calendar About Nothing](http://calendaraboutnothing.com).
+* Wrote an [interface gem](https://github.com/bhb/tack) for test libraries (in other words, Rack for testing).
+* Wrote a [gem to test filesystem interaction](https://github.com/bhb/construct).
+* Wrote an implementation of the [Maybe monad](https://github.com/bhb/maybe) for Ruby.
+* Analyzed and improved performance of Ruby code using perftools.rb, memprof, and awkward.
+* Rewrote small section of slow Ruby code as C extension to improve performance.
+* Built my [wedding website](http://wedding.bbrinck.com) using Sinatra, DataMapper, Haml, Rack::StaticCache, and rack-pagespeed.
+
+##Javascript
+_1 year_
+
+* Built a content reader using jQuery Mobile. Made small tweaks to jQuery Mobile code to enable custom behavior.
+* Built a location-based chat application using Sencha Touch.
+* Created charts for Rails site using Highcharts.
+* Built Opensocial Gadget using Javascript to reuse rendering logic from existing Rails web site.
+
+##Technical Writing
+_8 years_
+
+Selected blog posts:
+
+* [Lessons Learned](http://devver.wordpress.com/2010/04/26/lessons-learned/)
+* [Building an iPhone web app in under 50 lines with Sinatra and iUI](http://devver.wordpress.com/2008/11/25/building-a-iphone-web-app-in-under-50-lines-with-sinatra-and-iui/).
+* [The Maybe Monad in Ruby](http://pretheory.wordpress.com/2008/02/14/the-maybe-monad-in-ruby/)
+
+## C# 
+_2 years_
+
+* Created automated tool that discovered dozens of bugs in C# language analysis software.
+* Wrote automated tests for C# compiler.
+* Wrote automated tests for C# IDE.
+
+## Graphic Design
+_15 years (hobby)_
+
+* Designed advertisements for Devver.
+* Designed internal recruitment posters, hats, and t-shirts for my team at Microsoft.
+* Designed business cards, book covers, and website for Corporate Alternatives, Inc.
+* Designed my wedding site.
+
+## Java
+_4 years_
+
+* Wrote code to translate graphical representation of Java program into valid Java source code for [JPie project](http://jpie.cse.wustl.edu/)
+
+#Work History
+
+##dojo4
+_Programmer and Consultant, 9/2010 - present_
+
+* Designed, prioritized, and implemented critical features for clients.
+* Wrote, maintained, and refactored Ruby on Rails projects.
+* Implemented two mobile web products, using Sencha Touch and jQuery Mobile.
+* Wrote OpenSocial gadget for Jive App marketplace.
+* Designed environment and process for hosting staging and production systems on Amazon Web Services (EC2, RDS).
+* Performed technical interview to help hire full-time developer for client.
+
+##Devver
+_Co-founder and CEO, 6/2008 - 5/2010_
+
+* Designed and built web-based distributed testing software in Ruby.
+* Designed and built web-based Ruby analysis site.
+* Talked to current and potential users to refine features and understand demand and pricing.
+* Hired and managed remote employee.
+* Worked with distributed team using agile processes, video conferencing, remote pair programming, and periodic face-to-face sync up days.
+* Managed deployment on Amazon Web Services and Heroku.
+
+##Seekler
+_Co-founder, 1/2007 - 5/2008_
+
+* Built community-maintained product review site using Rails.
+* Wrote code to automatically import "Top 10" lists from various web sites.
+
+##Microsoft
+_Software Design Engineer in Test, 8/2004 - 11/2006_
+
+* Wrote and maintained a suite of hundreds of tests for the C# compiler.
+* Wrote and maintained automated GUI tests for the C# IDE.
+* Built custom automated tools to discover bugs in C# analysis software.
+* Helped develop new automated techniques for testing the C# compiler using transformations of existing test suites.
+
+#Education
+_Washington University in St. Louis_
+_2000-2004_
+
+* Graduated Summa Cum Laude with a GPA of 3.94
+* Bachelor of Science in Computer Science
+* Minor in Mathematics
